@@ -201,7 +201,6 @@ users["Erik"][:favourite_numbers].min
 
 6. Return an array of Avril's favorite numbers that are even 
 
-[comment]: <> (pre tag as Markdown seems to be buggy processing 3 x backtick)
 <pre>This is collections_homework_spec.rb
 
 
