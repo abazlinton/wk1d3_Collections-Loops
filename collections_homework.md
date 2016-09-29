@@ -77,6 +77,7 @@ for stop in lines
   puts stop
 end
 
+#This will break if there is an empty element!
 stop_number = 0
 while lines[stop_number] != nil
   puts lines[stop_number]
