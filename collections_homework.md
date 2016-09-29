@@ -36,6 +36,7 @@ lines[4]
 4. Work out the index position of 'Haymarket' 
 
 ```
+#This only returns FIRST match, so would not work with repeated strings
 lines.index("Haymarket")
 ```
 
